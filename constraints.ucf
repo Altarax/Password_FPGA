@@ -1,0 +1,40 @@
+############ CLOCK ##############
+#NET "clk" LOC = "P184" ;
+
+########## 2x4 keypad ###########
+NET "BUTTON[0]"  LOC = "p132"  ;
+NET "BUTTON[1]"  LOC = "p129"  ;
+NET "BUTTON[2]"  LOC = "p128"  ;
+NET "BUTTON[3]"  LOC = "p127"  ;
+NET "BUTTON[4]"  LOC = "p126"  ;
+NET "BUTTON[5]"  LOC = "p123"  ;
+NET "BUTTON[6]"  LOC = "p122"  ;
+NET "BUTTON[7]"  LOC = "p120"  ;
+
+NET "BUTTON[0]"   PULLUP;
+NET "BUTTON[1]"   PULLUP;
+NET "BUTTON[2]"   PULLUP;
+NET "BUTTON[3]"   PULLUP;
+NET "BUTTON[4]"   PULLUP;
+NET "BUTTON[5]"   PULLUP;
+NET "BUTTON[6]"   PULLUP;
+NET "BUTTON[7]"   PULLUP;
+
+############# 8 SEG ################
+NET "DigitSelect[3]"  LOC ="P116"  ;
+NET "DigitSelect[2]"  LOC = "P113"  ;
+NET "DigitSelect[1]"  LOC = "P109"   ;
+NET "DigitSelect[0]"  LOC = "P107" ;
+
+NET "LEDOut[0]"  LOC = "p119"  ;
+NET "LEDOut[1]"  LOC = "p115"  ;
+NET "LEDOut[2]"  LOC = "p112"  ;
+NET "LEDOut[3]"  LOC = "p108"  ;
+NET "LEDOut[4]"  LOC = "p106"  ;
+NET "LEDOut[5]"  LOC = "p100"  ;
+NET "LEDOut[6]"  LOC = "p98"  ;
+NET "LEDOut[7]"  LOC = "p96"  ;
+
+############# LED ################
+#NET "LED"  LOC = "p68"  ;
+#NET "LED2"  LOC = "p68"  ;
