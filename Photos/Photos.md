@@ -1,1 +1,1 @@
-#FPGA and components
+FPGA and components
