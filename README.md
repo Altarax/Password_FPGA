@@ -8,12 +8,12 @@ So, I'll try to improve this code in some months to see the difference.
 > Create an animation if we put the good password ❌  
 > Modificate and improve the way I used to code a password ❌  
 
-## Me and programming langages
-- *18/02/2021*
+## Me and programming langages (progression)
+- *18/02/2021* 
 
-| VHDL                          | Python                      | C                          |
-|-------------------------------|-----------------------------|----------------------------|
-| Complicated                   | Love it                     | I'm okay                   |
+| VHDL                        | Python                      | C                           |
+|-----------------------------|-----------------------------|-----------------------------|
+|  ➖🚀➖➖➖➖➖➖➖🌑  |  ➖➖➖➖➖➖🚀➖➖🌑  |  ➖➖➖🚀➖➖➖➖➖🌑  |
 
 
 ## Suggestions ?
